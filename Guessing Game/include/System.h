@@ -34,20 +34,20 @@ public:
 	bool main_game();
 private:
 	Player		  system_player_;
-	Timer         system_timer_;
-	GameInterface system_interface_;
+	Timer         	  system_timer_;
+	GameInterface 	  system_interface_;
 	size_t		  system_difficulity_[3];
 
 	bool is_playing_;
 	bool is_paused_;
 
 	int				   game_number_;
-	size_t			  input_number_;
-	unsigned int        game_input_;
+	size_t			          input_number_;
+	unsigned int        	            game_input_;
 
-	HANDLE						   handle_console_;
+	HANDLE				handle_console_;
 
-	std::unique_ptr<std::thread>    thread_worker_;
+	std::unique_ptr<std::thread>     thread_worker_;
 
 };
 
