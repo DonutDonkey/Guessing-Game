@@ -1,0 +1,5 @@
+# Guessing-Game
+thius project at no point should be taken seriously, i took a simple and easy concept of guessing game in cmd console, and decided
+to test out a bunch of features that are nice but are a complete overkill for this type of application.
+
+This was done for learning purposes of those features and for the fun.
