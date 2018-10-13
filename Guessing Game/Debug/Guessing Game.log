@@ -1,0 +1,10 @@
+﻿  System.cpp
+d:\projects\c++\guessing game\guessing game\src\system.cpp(174): warning C4018: '<': signed/unsigned mismatch
+d:\projects\c++\guessing game\guessing game\src\system.cpp(177): warning C4018: '>': signed/unsigned mismatch
+d:\projects\c++\guessing game\guessing game\dbs\defaultdatabase.h(38): warning C4018: '<': signed/unsigned mismatch
+  d:\projects\c++\guessing game\guessing game\src\system.cpp(106): note: see reference to function template instantiation 'size_t GUESS::EQ_FIND_INDEX<::size_t>(T [],T,::size_t)' being compiled
+          with
+          [
+              T=::size_t
+          ]
+  Guessing Game.vcxproj -> D:\Projects\C++\Guessing Game\Debug\Guessing Game.exe
